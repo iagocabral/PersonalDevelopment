@@ -27,3 +27,4 @@ var nestArrays = [["Joao", 21], ["Pedro", 13]];
 var primeiraPessoa = nestArrays[0][0]; // Joao
 nestArrays.push(["Fernando", 35]); // var removerDoArray = nestArrays.pop(); nestArrays.shift();
 nestArrays.shift(["Lucas", 24]); console.log(nestArrays);
+   
